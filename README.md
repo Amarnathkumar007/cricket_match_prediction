@@ -86,9 +86,3 @@ The dataset is sourced from a CSV file (`ball_by_ball_it20.csv`) containing ball
 - Incorporate additional features (e.g., player-specific stats, venue conditions).
 - Experiment with deep learning models for improved accuracy.
 - Optimize hyperparameters using grid search or cross-validation.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For questions or contributions, please contact the project maintainer at <your-email@example.com>.
